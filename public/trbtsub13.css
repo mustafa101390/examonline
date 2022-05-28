@@ -1,0 +1,561 @@
+* {
+    direction: rtl;
+    font-family: iransansweb;
+    font-size: 13px;
+}
+
+.header1 {
+    height: 60px;
+    background-color: #8b0861;
+    color: #fff;
+    display: table;
+    width: 100%;
+}
+
+#dorsa_theme_manager .information {
+    display: table;
+    width: 100%;
+}
+
+.form-control-feedback {
+    display: none !important;
+}
+
+.header2 {
+    border-top: 1px solid #f0f0f0;
+    box-shadow: 0 -2px 3px #f0f0f0;
+}
+
+.part1 {
+    background-color: #fbf9f9;
+}
+
+.mainpart {
+    margin-top: 20px;
+}
+
+#zone18 {
+    border: 1px solid #ccc;
+    padding: 20px 10px;
+    line-height: 30px;
+    background-color: #fff;
+}
+
+#zone23 {
+    padding: 0;
+}
+
+#zonesContainer #tool_link_sample_main_block52 {
+    display: block;
+    margin-top: 0px;
+}
+
+.continue img:hover {
+    filter: grayscale(90%) drop-shadow(0px 0px 3px #e694cb);
+}
+
+/**************/
+#tool_link_sample_main_block52 .defaultnone {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+#tool_link_sample_main_block52 .links1titr a {
+    line-height: 30px;
+    color: #333;
+}
+
+#tool_link_sample_main_block52 {
+    background-color: #fcf3ad;
+    padding: 20px;
+    min-height: 200px;
+    margin-top: -162px;
+    z-index: 11;
+    display: none;
+}
+
+#zone19 {
+    background: rgba(240, 238, 238, 0.3);
+    padding-top: 30px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+/*----------------------------tab--------------------------------*/
+#zone20 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#zone20 .tabs1 {
+    margin-top: 20px !important;
+}
+
+#zone20 li.resp-tab-item.hor_1.resp-tab-active {
+    background-color: #f4c430 !important;
+    border-top: none !important;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border: none !important;
+}
+
+#zone20 li.resp-tab-item.hor_1 {
+    font-size: 13px;
+    color: #4c4b4b;
+    background: transparent !important;
+    margin: 0;
+    text-align: center;
+}
+
+#zone20 .resp-tab-content {
+    border: none !important;
+    min-height: 366px;
+    border: 1px solid #f4c430 !important;
+    border-top-width: 2px !important;
+}
+
+#zone20 .b1 a {
+    font-size: 12px;
+    background-image: url(/Dorsapax/Data/Sub_0/Template/main/img/tab.png);
+    background-repeat: no-repeat;
+    background-position: right 6px;
+    text-indent: 22px;
+    display: block;
+    line-height: 30px;
+    color: #4c4b4b;
+}
+
+#zone20 .b1 a:hover {
+    color: #db9a00;
+}
+
+#zone20 .b1 a:hover {
+    background-image: url(/Dorsapax/Data/Sub_0/Template/main/img/tabh.png);
+}
+
+#zone20 li.resp-tab-item:after {
+    height: 13px !important;
+    width: 1px;
+    content: '';
+    position: absolute !important;
+    left: 0;
+    background-color: #ccc;
+}
+
+#zone20 .resp-tabs-list li {
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+    padding: 13px 15px;
+    margin: 0 0 0 4px;
+    list-style: none;
+    cursor: pointer;
+    float: right;
+    position: relative;
+}
+
+#zone20 li.resp-tab-item:last-child:after {
+    border-left: 0 !important;
+}
+
+#zone20 li.resp-tab-item.hor_1.resp-tab-active:after {
+    border-left: none !important;
+}
+
+.logo-footer {
+    height: 135px;
+    background-image: linear-gradient(to right, #a00f71, #72044e);
+    background-image: url(/Dorsapax/Data/Sub_0/Template/main/img/pattern.png), linear-gradient(to right, #a00f71, #72044e);
+}
+
+.footer {
+    background: url(/Dorsapax/Data/Sub_0/Template/main/img/footerback.jpg);
+}
+
+.linkarm {
+    margin: -50px auto 0 auto;
+    text-align: center;
+    color: #fff;
+    float: right;
+    position: relative;
+    z-index: 1;
+}
+
+.linkarm a {
+    color: #fff;
+}
+
+.linkarm a:hover {
+    color: #C861A6;
+}
+
+#obj_main_block48 .b1 img {
+    width: 100%;
+    max-width: 261px;
+}
+
+/****************show*******************/
+.DorsaContainer {
+    width: 100% !important;
+}
+
+.mainPartDivClass {
+    min-height: 350px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0px 0px 6px -1px #8B0861;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.mainPartDivClass img {
+    max-width: 100%;
+}
+
+.mainPartDivClass table {
+    max-width: 100%;
+    height: auto;
+}
+
+.downSideRes {
+    width: 100%;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+
+.form2name {
+    font: 15px/40px iransanswebbold;
+    color: #8B0861;
+    text-align: justify;
+}
+
+.form2htmlcode {
+    text-align: justify;
+}
+
+.htmlcode {
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.shownews5file1 {
+    max-width: 320px;
+    margin-left: 10px;
+}
+
+.shownews5titr {
+    font: 15px/40px iransanswebbold;
+    color: #8B0861;
+    text-align: justify;
+}
+
+.shownews5summery {
+    line-height: 25px;
+    text-align: justify;
+    margin-bottom: 10px;
+    font-family: iransanswebbold;
+    font-size: 12px;
+}
+
+.shownews5comment {
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.shownews5dateheader, .shownews5reviewheader, .shownews5sourceheader {
+    line-height: 30px;
+}
+
+#ctl00_cphMain_ctl00_mainContentLoader_ctl02_favtoolbar {
+    position: relative;
+    top: -60px;
+    float: left;
+}
+
+#ctl00_cphMain_ctl00_mainContentLoader_ctl01_lblAvg {
+    display: none;
+}
+
+#ctl00_cphMain_ctl00_mainContentLoader_ctl02_divCommentPage {
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding: 10px !important;
+    border: 1px solid #8b0861;
+    background-color: transparent !important;
+}
+
+#ctl00_cphMain_ctl00_mainContentLoader_ctl02_divIdeaPage {
+    border: 1px solid #8b0861;
+    border-radius: 10px;
+    background-color: transparent !important;
+    padding: 15px !important;
+}
+
+#ctl00_cphMain_ctl00_mainContentLoader_ctl02_divCommentPage:hover {
+    font-weight: bold;
+}
+
+.showslider1titr {
+    font-family: iransanswebbold;
+    color: #8b0861;
+    font-size: 14px;
+    line-height: 50px;
+}
+
+.showslider1comment {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.showslider1reviewtxt {
+    padding-left: 0 !important;
+}
+
+.idea:hover {
+    color: #8b0861;
+    font-weight: bold;
+}
+
+.idea {
+    cursor: pointer;
+}
+
+.control-label {
+    padding: 5px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.footable > thead > tr > th, .footable > thead > tr > td {
+    background-color: #8b0861 !important;
+    border-color: transparent !important;
+}
+
+.footable {
+    border-color: #8b0861 !important;
+}
+
+.groupListview {
+    border: none !important;
+}
+
+#Th1 {
+    font-family: iransanswebbold;
+    font-size: 15px;
+    padding-right: 30px;
+}
+
+#Th2 {
+    font-family: iransanswebbold;
+    font-size: 15px;
+}
+
+.current {
+    color: #8b0861 !important;
+}
+
+.grouptitle a:hover {
+    color: #8b0861 !important;
+}
+
+.shownews5date1txt, .shownews5reviewtxt, .shownews5sourcetxt {
+    max-width: 90px;
+    padding-left: 0 !important;
+}
+
+.orgtitle span {
+    font-family: iransanswebbold;
+    color: #8b0861;
+    font-size: 15px;
+}
+
+.orgtitle {
+    border: 1px solid #8b0861;
+    line-height: 40px;
+    font-family: iransanswebbold;
+}
+
+.mainorg {
+    border: 1px solid #8b0861;
+    background-color: #fff2fb;
+}
+
+.orgcomment {
+    border: 1px solid #8b0861;
+    line-height: 30px;
+    text-align: right;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.orgcomment span {
+    font-family: iransanswebbold;
+}
+
+.mainorg .TreeNode {
+    cursor: pointer;
+}
+
+/************footer*************/
+.telsearch {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.telsearch:hover, .mapes:hover {
+    filter: brightness(1.5);
+    transition: filter .8s;
+}
+
+@media (min-width: 1200px) {
+    #zone20 .resp-tab-content {
+        height: 180px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #zone20 .resp-tabs-list li {
+        font-weight: 600;
+        font-size: 13px;
+        display: inline-block;
+        padding: 13px 15px;
+        margin: 0 0 0 4px;
+        list-style: none;
+        cursor: pointer;
+        float: right;
+        position: relative;
+        width: 16.5%;
+    }
+
+    #zone20 .resp-tab-content {
+        height: 180px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #zone20 .resp-tabs-list li {
+        font-weight: 600;
+        font-size: 13px;
+        display: inline-block;
+        padding: 13px 15px;
+        margin: 0 0 0 4px;
+        list-style: none;
+        cursor: pointer;
+        float: right;
+        position: relative;
+        width: 16.5%;
+    }
+
+    #zone20 {
+        padding: 18px 40px 16px !important;
+    }
+
+    #zone20 .resp-tab-content {
+        height: 180px;
+    }
+
+    #tool_link_sample_main_block52 {
+        margin-top: -200px !important;
+    }
+
+    #zone19 .b1 {
+        text-align: center;
+    }
+
+    #zone19 {
+        background-color: #72044e;
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+    #zone19 .b1 .text1 {
+        margin-top: 40px;
+        margin-bottom: 4px;
+    }
+
+    .header2 {
+        margin-top: -30px;
+    }
+
+    #zone4 {
+        margin-bottom: 70px;
+    }
+}
+
+@media (max-width: 767px) {
+    #tool_link_sample_main_block19 .links4 a:hover::after {
+        opacity: 0;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 767px) {
+    #zone19 .b1 {
+        text-align: center;
+    }
+
+    #zone19 .b1 .text1 {
+        margin-top: 40px;
+        margin-bottom: 4px;
+    }
+
+    #tool_link_sample_main_block52 {
+        margin-top: -140px !important;
+    }
+
+    .sim-slider-current {
+        display: none;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 449px) {
+    #zone19 .b1 {
+        text-align: center;
+    }
+
+    #zone19 .b1 .text1 {
+        margin-top: 40px;
+        margin-bottom: 4px;
+    }
+
+    #zone24 {
+        margin-top: -20px;
+    }
+
+    #tool_link_sample_main_block52 {
+        margin-top: -150px !important;
+    }
+
+    .sim-slider-current {
+        display: none;
+    }
+}
+
+@media (max-width: 319px) {
+    #zone19 .b1 {
+        text-align: center;
+    }
+
+    #zone19 .b1 .text1 {
+        margin-top: 40px;
+        margin-bottom: 4px;
+    }
+
+    #zone24 {
+        margin-top: -20px;
+    }
+
+    #tool_link_sample_main_block52 {
+        margin-top: -150px !important;
+    }
+
+    .sim-slider-current {
+        display: none;
+    }
+}
+
+.msgborderdesign1 .dropdown-menu {
+    left: auto !important;
+}
